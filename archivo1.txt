@@ -3,4 +3,4 @@ Ahora le agrego una línea más pq si
 
 Línea extra de cambio de tiempo
 
-Linea nueva de cambio de checkout o algo asi xd
+Esta línea le pertenece a la rama 2
