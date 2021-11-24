@@ -7,3 +7,5 @@ Línea extra de cambio de tiempo
 
 
 Esta línea le pertenece a la rama 2, suerte
+
+Para hacer un merge :D
